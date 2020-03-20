@@ -3,8 +3,8 @@ module.exports = {
     {
       resolve: `gatsby-theme-service-relief`,
       options: {
-        authorName: `some Gatsby folks`,
-        authorLink: `https://twitter.com/gatsbyjs`,
+        authorName: `Amberley Romo`,
+        authorLink: `https://twitter.com/amber1ey`,
       },
     },
   ],
